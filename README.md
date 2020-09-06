@@ -1,3 +1,3 @@
 # git-branching-test
 
-this is branch a
+this is the second commit from branch a2
